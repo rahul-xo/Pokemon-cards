@@ -1,10 +1,9 @@
 import React from 'react'
-// import UseEffect from './Components/UseEffect'
-import CleanUp from './Components/CleanUp'
+import DisplayCards from './Components/DisplayCards'
+
 const App = () => {
   return (
-    // <UseEffect/>
-    <CleanUp/>
+    <DisplayCards/>
   )
 }
 
